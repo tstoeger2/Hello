@@ -9,5 +9,9 @@ This program prints my name
 int main(void) {
 printf("Tyler Stoeger\n");
 printf("My major is Mechanical Engineering\n");
+
+printf("May Diaz\n");
+printf("Electrical Engineering\n");
+
 return 0;
 }
