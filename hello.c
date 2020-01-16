@@ -7,6 +7,7 @@ This program prints my name
 #include <stdio.h>
 
 int main(void) {
-printf("Tyler Stoeger\nMy major is Mechanical Engineering\n");
+printf("Tyler Stoeger\n");
+printf("My major is Mechanical Engineering\n");
 return 0;
 }
